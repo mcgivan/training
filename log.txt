@@ -1,3 +1,5 @@
 Log content
+error feature dependency 1
 another feature dependency
 new entry
+error dependency 2
